@@ -1,2 +1,1 @@
-# test
-test
+raumen777の自己紹介用です。
