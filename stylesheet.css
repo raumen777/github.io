@@ -1,13 +1,31 @@
 @charset "utf-8";
 
 .test {
-  background-color: #131213;
-  color: #ffffff;
 }
 
-.header {
+header {
+  height: 80px;
   border-bottom: 1px solid #505050;
   margin-bottom: 20px;
+}
+
+.header-logo {
+  height: 30px;
+}
+
+.header-menu {
+  padding: 5px;
+}
+
+.header-menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-menu li {
+  justify-content:space-around;
+  display: inline-flex;
+  list-style: none;
 }
 
 .footer {
