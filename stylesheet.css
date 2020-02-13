@@ -23,8 +23,7 @@ header {
 }
 
 .header-menu li {
-  justify-content:space-around;
-  display: inline-flex;
+  flex: auto;
   list-style: none;
 }
 
